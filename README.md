@@ -14,5 +14,14 @@ ________________________________________________________________________________
 - Mysore Masala Dosa
 - Mysore Pak
 - Mysore Churumuri
+___________________________________________________________________________________________
+## Recommended Sports
+Physical activity is not only beneficial for our bodies but also for our overall well-being. In this section, I've compiled a list of sports that I highly recommend trying out. Each sport has its unique advantages.Whether you're looking to stay fit, connect with nature, or find a peaceful escape from the daily grind, these sports offer something for everyone. Discover the joy of movement and the numerous benefits of an active lifestyle through these recommended sports
 
+| Sport        | Reason for Recommendation | Hours per Week |
+|--------------|---------------------------|----------------|
+| Tennis       | Great for cardio exercise | 5              |
+| Hiking       | Scenic and refreshing     | 7              |
+| Swimming     | Full-body workout         | 4              |
+| Yoga         | Stress relief and balance | 3              |
 [Learn more about me in MyStats](MyStats.md)
