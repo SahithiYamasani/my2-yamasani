@@ -25,7 +25,12 @@ Physical activity is not only beneficial for our bodies but also for our overall
 | Swimming     | Full-body workout         | 4              |
 | Yoga         | Stress relief and balance | 3              |
 
+-----------------------------------
+## Pithy Quotes
 
+> A good programmer is someone who always looks both ways before crossing a one-way street. - *Doug Linder, computer scientist*
+
+> A computer is like a violin.You can imagine it making beautiful music, but you have to learn how to play it. - *Bill Gates, the founder of Microsoft,*
 
 
 [Learn more about me in MyStats](MyStats.md)
