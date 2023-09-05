@@ -14,3 +14,5 @@ ________________________________________________________________________________
 - Mysore Masala Dosa
 - Mysore Pak
 - Mysore Churumuri
+
+[Learn more about me in MyStats](MyStats.md)
