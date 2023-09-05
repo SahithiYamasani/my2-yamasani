@@ -24,4 +24,8 @@ Physical activity is not only beneficial for our bodies but also for our overall
 | Hiking       | Scenic and refreshing     | 7              |
 | Swimming     | Full-body workout         | 4              |
 | Yoga         | Stress relief and balance | 3              |
+
+
+
+
 [Learn more about me in MyStats](MyStats.md)
