@@ -32,5 +32,21 @@ Physical activity is not only beneficial for our bodies but also for our overall
 
 > A computer is like a violin.You can imagine it making beautiful music, but you have to learn how to play it. - *Bill Gates, the founder of Microsoft,*
 
+__________________________________
+# Code Fencing
+> **Question:** Making a checkerboard pattern using CSS Selectors
+>
+> **Stack Overflow Link:** [Making a checkerboard pattern using CSS Selectors](https://stackoverflow.com/questions/27808598/making-a-checkerboard-pattern-using-css-selectors)
+
+```<svg width="100%" height="100%">
+  <pattern id="pattern-checkers" x="0" y="0" width="200" height="200" patternUnits="userSpaceOnUse">
+    <rect class="checker" x="0" width="100" height="100" y="0"></rect>
+    <rect class="checker" x="100" width="100" height="100" y="100"></rect>
+  </pattern>
+  <rect x="0" y="0" width="100%" height="100%" fill="url(#pattern-checkers)"></rect> 
+</svg>
+```
+Snippet Source Link : [Snippet Source Link](https://css-tricks.com/snippets/svg/svg-patterns/#aa-checkerboard-pattern)
+
 
 [Learn more about me in MyStats](MyStats.md)
